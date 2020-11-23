@@ -4,12 +4,12 @@ có sẵn mà ko làm ảnh hưởng tới đối tượng này
 
 # Cách dùng:
 ## 1. component interface --> IPizza (chứa hành vi chung của 1 đối tượng đã có sẵn)
-### concrete componet 1 -->ChịckentPizza
+### concrete componet 1 -->ChickentPizza
 ### concrete componet 2 -->-->TomatotPizza
-==> Muốn mở rộng trong golang (ko có thừ kế) phải cài đặt thêm
-####concrete decoretor 1 -->papperdecorator (chứa tính năng thêm của cc1)
+==> Muốn mở rộng trong golang (ko có thừa kế) phải cài đặt thêm
+###concrete decoretor 1 -->papperdecorator (chứa tính năng thêm của cc1)
         +component propeties
-####concrete decoretor 2 -->cheeseDecorator
+###concrete decoretor 2 -->cheeseDecorator
         +component propeties
         
         
