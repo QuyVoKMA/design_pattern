@@ -1,4 +1,5 @@
 #Adapter (bộ chuyển đổi)
+
 #Khi nào dùng
 1. Dùng với mục đích dùng dể chuyển đổi
 2. Khi nào chúng ta chuyển 1 hành vi của một đối tượng mà khi chúng ta gọi thì no qua lớp trung gian lớp trung gian đó gọi là adapter.
