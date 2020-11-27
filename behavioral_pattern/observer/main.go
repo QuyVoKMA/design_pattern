@@ -1,7 +1,7 @@
 package main
 
 import (
-	o "observer/observer/a"
+	o "behavior/observer/a"
 )
 
 func main(){
